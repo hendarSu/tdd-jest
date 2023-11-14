@@ -1,0 +1,3 @@
+beforAll(()=> {
+    // connection DB
+})
